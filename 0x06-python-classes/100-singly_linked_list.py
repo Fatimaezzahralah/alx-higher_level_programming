@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""Define a class Square."""
+
 
 class Node:
     """Represent a node in a singly-linked list."""
